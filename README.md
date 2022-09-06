@@ -1,9 +1,6 @@
 ### Hi there, here are some facts about me!👋
 
-<!--
-**Yu4nn/Yu4nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a pretty shy person but I hope we can be friends 🤪
 
 - 🌱 I’m currently studying in ... STI
 - 👯 I’m looking to collaborate on ... programming games
